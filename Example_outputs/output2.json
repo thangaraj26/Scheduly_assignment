@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "participants": [
+        "Alex",
+        "Jim"
+    ],
+    "agenda": "new marketing campaign.",
+    "date": {
+        "kind": "InstantTime",
+        "value": "2023-03-15 00:00:00 +05:30",
+        "grain": "Day",
+        "precision": "Exact"
+    },
+    "time": {
+        "kind": "Duration",
+        "years": 0,
+        "quarters": 0,
+        "months": 0,
+        "weeks": 0,
+        "days": 0,
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 0,
+        "precision": "Exact"
+    }
+}

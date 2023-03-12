@@ -1,0 +1,27 @@
+{
+    "status": true,
+    "participants": [
+        "John",
+        "Mary",
+        "Jane"
+    ],
+    "agenda": "new product launch.",
+    "date": {
+        "kind": "InstantTime",
+        "value": "2023-03-13 00:00:00 +05:30",
+        "grain": "Week",
+        "precision": "Exact"
+    },
+    "time": {
+        "kind": "Duration",
+        "years": 0,
+        "quarters": 0,
+        "months": 0,
+        "weeks": 0,
+        "days": 0,
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 0,
+        "precision": "Exact"
+    }
+}

@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request
 from pydantic import BaseModel,ValidationError
 from NLP.Info_extract import Info_extract
 import json
